@@ -1,0 +1,31 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# Coverage éventuelle
+.coverage
+htmlcov/
+
+# Base SQLite locale
+*.db
+*.sqlite
+*.sqlite3
+
+# Variables d'environnement
+.env
+
+# VS Code
+.vscode/
+
+# Système
+.DS_Store
+Thumbs.db
