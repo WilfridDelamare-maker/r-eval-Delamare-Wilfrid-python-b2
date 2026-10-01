@@ -1,3 +1,5 @@
+# j'ai mis la partie 2 du Controle dans un fichier exercice2.txt car après j'ai remplacé par la db SQLite !
+
 1. Une route GET /stations crée une station. Quel verbe et quel code HTTP faut-il utiliser pour cette création ?
 il faut faire app.post('/stations', status_code=201)
 
